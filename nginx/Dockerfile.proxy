@@ -1,0 +1,14 @@
+FROM nginx:latest
+#COPY nginx.conf /etc/nginx/nginx.conf
+COPY default.conf /etc/nginx/conf.d
+
+#CMD ["mkdir","/etc/nginx/ssl/"]
+
+RUN mkdir /etc/nginx/ssl
+
+COPY certificado.pem /etc/nginx/ssl/
+
+COPY key.pem /etc/nginx/ssl/
+
+#CMD ["chmod", "+755", "/etc/nginx/ssl/certificado.crt"]
+
