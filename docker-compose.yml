@@ -58,6 +58,39 @@ services:
     networks:
      - asa-network
 
+#duplica o db e o wordpress
+
+  db2:
+    # We use a mariadb image which supports both amd64 & arm64 architecture
+    image: mariadb:10.6.4-focal
+    # If you really want to use MySQL, uncomment the following line
+    #image: mysql:8.0.27
+    command: '--default-authentication-plugin=mysql_native_password'
+    volumes:
+      - db_data:/var/lib/mysql2
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=somewordpress2
+      - MYSQL_DATABASE=wordpress2
+      - MYSQL_USER=wordpress2
+      - MYSQL_PASSWORD=wordpress2
+    networks:
+     - asa-network
+
+  wordpress2:
+    image: wordpress:latest
+    restart: always
+    environment:
+      - WORDPRESS_DB_HOST=db2
+      - WORDPRESS_DB_USER=wordpress2
+      - WORDPRESS_DB_PASSWORD=wordpress2
+      - WORDPRESS_DB_NAME=wordpress2
+    volumes:
+      - wordpress:/var/www/html
+    networks:
+     - asa-network
+
+
 networks:
  asa-network:
   driver: bridge

@@ -1,0 +1,14 @@
+$TTL 30
+@ 	IN	SOA	paulo.ifrn.asa.br. root (
+	2024090307 	;serial
+	120		;refresh
+	60		;retry
+	300		;expiry
+	30		; Minimum
+	)
+
+@	IN 	NS	@	
+@	IN 	MX	5 	mail
+@		IN	A	192.168.1.128
+@		IN	A	192.168.1.128
+www		IN	CNAME @
