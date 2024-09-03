@@ -6,9 +6,9 @@ COPY default.conf /etc/nginx/conf.d
 
 RUN mkdir /etc/nginx/ssl
 
-COPY certificado.pem /etc/nginx/ssl/
+COPY nginx-selfsigned.crt /etc/nginx/ssl/
 
-COPY key.pem /etc/nginx/ssl/
+COPY nginx-selfsigned.key /etc/nginx/ssl/
 
 #CMD ["chmod", "+755", "/etc/nginx/ssl/certificado.crt"]
 
