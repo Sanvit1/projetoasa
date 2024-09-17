@@ -1,6 +1,8 @@
 $TTL 30
-@ 	IN	SOA	paulo.ifrn.asa.br. root (
-	2024090307 	;serial
+@	IN	SOA	paulo.asa.br. root.paulo.asa.br. (
+	
+			      1		; Serial
+	2024090308 	;serial
 	120		;refresh
 	60		;retry
 	300		;expiry
