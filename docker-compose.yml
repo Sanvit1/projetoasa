@@ -1,5 +1,15 @@
 services:
 
+
+  ssh:
+    build:
+      context: ./ssh
+      dockerfile: Dockerfile
+    image: ssh
+    container_name: ssh
+    ports:
+      - "2222:22/tcp"
+
   proxy:
     build:
      context: ./nginx
@@ -86,10 +96,30 @@ services:
       - WORDPRESS_DB_PASSWORD=wordpress2
       - WORDPRESS_DB_NAME=wordpress2
     volumes:
-      - wordpress:/var/www/html
+      - wordpress2:/var/www/html
     networks:
      - asa-network
-
+     
+  email: 
+    build:                                #configurações do dockerfile
+      context: ./email                    #local do arquivo
+      dockerfile: Dockerfile              #dockerfile do container
+    image: email                          #nome da Imagem         
+    container_name: email                 #Nome do container
+    hostname: mail.asa.br
+    restart: always                       #reiniciar automáticamente
+    tty: true                             #Habilita terminal  
+    volumes:
+      - ./email/rainloop:/var/www/html/rainloop
+    ports:                                #porta que o container irá executar 
+     - "25:25/tcp"                                              
+     - "100:100/tcp"
+     - "143:143/tcp"
+     - "587:587/tcp"
+     - "993:993/tcp"
+     - "995:995/tcp"
+    networks:                            
+     - asa-network
 
 networks:
  asa-network:
@@ -98,6 +128,7 @@ networks:
 volumes:
   db_data:
   wordpress:
+  wordpress2:
 
   
     

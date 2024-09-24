@@ -1,0 +1,1015 @@
+
+[18:53:04.953][8a9bc41f] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:04.963][8a9bc41f] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:04.969][8a9bc41f] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?admin
+[18:53:05.690][8a9bc41f] INFO[MEMORY]: Memory peak usage: 6MB
+[18:53:05.695][8a9bc41f] INFO[TIME]: Time delta: 1.4848358631134
+
+[18:53:05.886][11ec501a] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:05.893][11ec501a] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:05.898][11ec501a] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AdminAppData@no-mobile-0/0/5686531570576225/
+[18:53:06.124][11ec501a] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":false,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"none","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"ac.asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","SIEVE","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":true,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[],"adminHostUse":false,"adminPath":"admin","allowAdminPanel":true},"SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/Admin\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/Admin\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/admin.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/admin.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[18:53:06.161][11ec501a] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:06.168][11ec501a] INFO[TIME]: Time delta: 0.34288501739502
+
+[18:53:15.078][0f14e47c] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:15.087][0f14e47c] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:15.093][0f14e47c] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:53:15.131][0f14e47c] AJAX[NOTE]: Action: DoAdminLogin
+[18:53:15.140][0f14e47c] POST[DATA]: {"Login":"admin","Password":"*******","Action":"AdminLogin","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:53:15.293][0f14e47c] AJAX[DATA]: {"Action":"AdminLogin","Result":true,"Time":629}
+[18:53:15.457][0f14e47c] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:15.463][0f14e47c] INFO[TIME]: Time delta: 0.70184588432312
+
+[18:53:15.722][2563b373] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:15.728][2563b373] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:15.733][2563b373] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?admin
+[18:53:15.882][2563b373] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:15.890][2563b373] INFO[TIME]: Time delta: 0.22891688346863
+
+[18:53:16.047][ca4de51c] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:34][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:16.053][ca4de51c] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:16.058][ca4de51c] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AdminAppData@no-mobile-0/0/5935133166739957/
+[18:53:16.280][ca4de51c] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":true,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"none","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"ac.asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","SIEVE","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":true,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[],"adminHostUse":false,"adminPath":"admin","allowAdminPanel":true},"AdminDomain":"asa.br","AdminLogin":"admin","UseTokenProtection":true,"EnabledPlugins":false,"VerifySslCertificate":false,"AllowSelfSigned":true,"MySqlIsSupported":false,"SQLiteIsSupported":false,"PostgreSqlIsSupported":false,"ContactsEnable":false,"ContactsSync":false,"ContactsPdoType":"sqlite","ContactsPdoDsn":"mysql:host=127.0.0.1;port=3306;dbname=rainloop","ContactsPdoUser":"root","ContactsPdoPassword":"********","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleClientSecret":"","GoogleApiKey":"","AllowFacebookSocial":false,"FacebookAppID":"","FacebookAppSecret":"","AllowTwitterSocial":false,"TwitterConsumerKey":"","TwitterConsumerSecret":"","AllowDropboxSocial":false,"DropboxApiKey":"","SubscriptionEnabled":true,"WeakPassword":true,"CoreAccess":true,"PhpUploadSizes":{"upload_max_filesize":"2M","post_max_size":"8M"},"SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/Admin\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/Admin\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/admin.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/admin.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[18:53:16.296][ca4de51c] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:16.302][ca4de51c] INFO[TIME]: Time delta: 0.31660795211792
+
+[18:53:20.530][3d632ee3] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:20.534][3d632ee3] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:20.539][3d632ee3] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:53:20.554][3d632ee3] AJAX[NOTE]: Action: DoAdminDomainList
+[18:53:20.558][3d632ee3] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:53:20.758][3d632ee3] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"ac.asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":378}
+[18:53:20.802][3d632ee3] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:20.808][3d632ee3] INFO[TIME]: Time delta: 0.39075803756714
+
+[18:53:23.006][0b48811b] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:23.011][0b48811b] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:23.017][0b48811b] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:53:23.023][0b48811b] AJAX[NOTE]: Action: DoAdminDomainLoad
+[18:53:23.028][0b48811b] POST[DATA]: {"Name":"ac.asa.br","Action":"AdminDomainLoad","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:53:23.143][0b48811b] AJAX[DATA]: {"Action":"AdminDomainLoad","Result":{"@Object":"Object\/Domain","Name":"ac.asa.br","IncHost":"mail.ac.asa.br","IncPort":143,"IncSecure":0,"IncShortLogin":true,"UseSieve":false,"SieveHost":"","SievePort":4190,"SieveSecure":0,"SieveAllowRaw":false,"OutHost":"mail.ac.asa.br","OutPort":25,"OutSecure":0...
+[18:53:23.148][0b48811b] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:23.154][0b48811b] INFO[TIME]: Time delta: 0.18711400032043
+
+[18:53:50.982][12e83519] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:50.988][12e83519] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:50.994][12e83519] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:53:51.011][12e83519] AJAX[NOTE]: Action: DoAdminDomainDelete
+[18:53:51.016][12e83519] POST[DATA]: {"Name":"ac.asa.br","Action":"AdminDomainDelete","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:53:51.203][12e83519] AJAX[DATA]: {"Action":"AdminDomainDelete","Result":true,"Time":396}
+[18:53:51.347][12e83519] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:51.352][12e83519] INFO[TIME]: Time delta: 0.50467586517334
+
+[18:53:51.434][9019fa3d] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[18:53:51.439][9019fa3d] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:53:51.445][9019fa3d] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:53:51.451][9019fa3d] AJAX[NOTE]: Action: DoAdminDomainList
+[18:53:51.456][9019fa3d] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:53:51.512][9019fa3d] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":134}
+[18:53:51.518][9019fa3d] INFO[MEMORY]: Memory peak usage: 2MB
+[18:53:51.523][9019fa3d] INFO[TIME]: Time delta: 0.13073682785034
+
+[18:54:29.396][70ff615f] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:34][Apache/2.4.38 (Debian)][apache2handler]
+[18:54:29.402][70ff615f] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:54:29.407][70ff615f] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:54:29.435][70ff615f] AJAX[NOTE]: Action: DoAdminDomainSave
+[18:54:29.440][70ff615f] POST[DATA]: {"Create":"1","Name":"asa.br","IncHost":"mail.asa.br","IncPort":"143","IncSecure":"0","IncShortLogin":"1","UseSieve":"0","SieveAllowRaw":"0","SieveHost":"","SievePort":"4190","SieveSecure":"0","OutHost":"mail.asa.br","OutPort":"25","OutSecure":"0","OutShortLogin":"1","OutAuth":"0","OutUsePhpMail":"0","WhiteList":"","Action":"AdminDomainSave","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:54:29.684][70ff615f] AJAX[DATA]: {"Action":"AdminDomainSave","Result":true,"Time":628}
+[18:54:29.772][70ff615f] INFO[MEMORY]: Memory peak usage: 2MB
+[18:54:29.779][70ff615f] INFO[TIME]: Time delta: 0.65415906906128
+
+[18:54:29.910][d6db73aa] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:55][Apache/2.4.38 (Debian)][apache2handler]
+[18:54:29.917][d6db73aa] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:54:29.923][d6db73aa] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:54:29.929][d6db73aa] AJAX[NOTE]: Action: DoAdminDomainList
+[18:54:29.935][d6db73aa] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:54:29.993][d6db73aa] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":187}
+[18:54:30.008][d6db73aa] INFO[MEMORY]: Memory peak usage: 2MB
+[18:54:30.014][d6db73aa] INFO[TIME]: Time delta: 0.16367721557617
+
+[18:54:36.106][dd2372ab] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[18:54:36.110][dd2372ab] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:54:36.115][dd2372ab] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:54:36.131][dd2372ab] AJAX[NOTE]: Action: DoAdminSettingsUpdate
+[18:54:36.136][dd2372ab] POST[DATA]: {"LoginDefaultDomain":"asa.br","Action":"AdminSettingsUpdate","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:54:36.211][dd2372ab] AJAX[DATA]: {"Action":"AdminSettingsUpdate","Result":true,"Time":252}
+[18:54:36.251][dd2372ab] INFO[MEMORY]: Memory peak usage: 2MB
+[18:54:36.256][dd2372ab] INFO[TIME]: Time delta: 0.25850510597229
+
+[18:54:40.141][e6a2c373] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[18:54:40.148][e6a2c373] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:54:40.154][e6a2c373] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:54:40.188][e6a2c373] AJAX[NOTE]: Action: DoAdminSettingsUpdate
+[18:54:40.194][e6a2c373] POST[DATA]: {"DetermineUserDomain":"1","Action":"AdminSettingsUpdate","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:54:40.329][e6a2c373] AJAX[DATA]: {"Action":"AdminSettingsUpdate","Result":true,"Time":565}
+[18:54:40.450][e6a2c373] INFO[MEMORY]: Memory peak usage: 2MB
+[18:54:40.459][e6a2c373] INFO[TIME]: Time delta: 0.62750101089478
+
+[18:54:40.846][b51093e9] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[18:54:40.853][b51093e9] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:54:40.858][b51093e9] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:54:40.864][b51093e9] AJAX[NOTE]: Action: DoAdminSettingsUpdate
+[18:54:40.871][b51093e9] POST[DATA]: {"DetermineUserDomain":"0","Action":"AdminSettingsUpdate","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:54:40.927][b51093e9] AJAX[DATA]: {"Action":"AdminSettingsUpdate","Result":true,"Time":150}
+[18:54:40.934][b51093e9] INFO[MEMORY]: Memory peak usage: 2MB
+[18:54:40.940][b51093e9] INFO[TIME]: Time delta: 0.14356184005737
+
+[18:54:41.851][a25946db] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[18:54:41.859][a25946db] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:54:41.864][a25946db] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:54:41.871][a25946db] AJAX[NOTE]: Action: DoAdminSettingsUpdate
+[18:54:41.877][a25946db] POST[DATA]: {"DetermineUserDomain":"1","Action":"AdminSettingsUpdate","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:54:41.917][a25946db] AJAX[DATA]: {"Action":"AdminSettingsUpdate","Result":true,"Time":123}
+[18:54:41.925][a25946db] INFO[MEMORY]: Memory peak usage: 2MB
+[18:54:41.931][a25946db] INFO[TIME]: Time delta: 0.12233710289001
+
+[18:54:43.036][1170ce19] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:34][Apache/2.4.38 (Debian)][apache2handler]
+[18:54:43.041][1170ce19] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:54:43.048][1170ce19] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:54:43.067][1170ce19] AJAX[NOTE]: Action: DoAdminSettingsUpdate
+[18:54:43.072][1170ce19] POST[DATA]: {"DetermineUserDomain":"0","Action":"AdminSettingsUpdate","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:54:43.151][1170ce19] AJAX[DATA]: {"Action":"AdminSettingsUpdate","Result":true,"Time":305}
+[18:54:43.198][1170ce19] INFO[MEMORY]: Memory peak usage: 2MB
+[18:54:43.203][1170ce19] INFO[TIME]: Time delta: 0.31262493133545
+
+[18:55:08.440][427d0110] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:55][Apache/2.4.38 (Debian)][apache2handler]
+[18:55:08.445][427d0110] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:55:08.451][427d0110] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:55:08.476][427d0110] AJAX[NOTE]: Action: DoAdminPluginList
+[18:55:08.481][427d0110] POST[DATA]: {"Action":"AdminPluginList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:55:08.575][427d0110] AJAX[DATA]: {"Action":"AdminPluginList","Result":[],"Time":474}
+[18:55:08.687][427d0110] INFO[MEMORY]: Memory peak usage: 2MB
+[18:55:08.692][427d0110] INFO[TIME]: Time delta: 0.51903986930847
+
+[18:55:12.898][720e31b6] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.5][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[18:55:12.904][720e31b6] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[18:55:12.909][720e31b6] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[18:55:12.938][720e31b6] AJAX[NOTE]: Action: DoAdminPackagesList
+[18:55:12.943][720e31b6] POST[DATA]: {"Action":"AdminPackagesList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[18:55:13.102][720e31b6] INFO[DATA]: cUrl: URL: http://repository.rainloop.net/v1/repository.json
+[18:55:13.865][720e31b6] INFO[DATA]: cUrl: Request result: true (Status: 200, ContentType: application/json)
+[18:55:13.912][720e31b6] AJAX[DATA]: {"Action":"AdminPackagesList","Result":{"Real":true,"MainUpdatable":false,"List":[{"type":"plugin","id":"add-x-originating-ip-header","name":"X-Originating-IP","installed":"","version":"1.2","file":"plugins\/add-x-originating-ip-header-1.2.zip","release":"11.12.2013","desc":"Adds X-Originating-IP he...
+[18:55:14.072][720e31b6] INFO[MEMORY]: Memory peak usage: 2MB
+[18:55:14.078][720e31b6] INFO[TIME]: Time delta: 1.462858915329
+
+[19:16:25.984][0be8beb6] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[19:16:25.990][0be8beb6] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:16:25.996][0be8beb6] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/
+[19:16:26.502][0be8beb6] INFO[MEMORY]: Memory peak usage: 6MB
+[19:16:26.507][0be8beb6] INFO[TIME]: Time delta: 0.97870492935181
+
+[19:16:26.726][ad5084fa] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[19:16:26.733][ad5084fa] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:16:26.740][ad5084fa] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Css/0/User/-/Default/-/1c6a6bc68ba5f92d85485ab98a7fc6d4/Hash/-/
+[19:16:27.089][ad5084fa] INFO[MEMORY]: Memory peak usage: 4MB
+[19:16:27.095][ad5084fa] INFO[TIME]: Time delta: 0.43407011032104
+
+[19:16:27.254][27aa57f7] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[19:16:27.262][27aa57f7] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:16:27.267][27aa57f7] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AppData@no-mobile-0/0/68366299692788/
+[19:16:27.472][27aa57f7] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":false,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":false,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[]},"AdditionalLoginError":"","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleApiKey":"","AllowFacebookSocial":false,"AllowTwitterSocial":false,"AllowDropboxSocial":false,"DropboxApiKey":"","SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/User\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/App\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/app.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/app.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[19:16:27.488][27aa57f7] INFO[MEMORY]: Memory peak usage: 2MB
+[19:16:27.493][27aa57f7] INFO[TIME]: Time delta: 0.31061887741089
+
+[19:16:27.667][c3e8823f] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[19:16:27.675][c3e8823f] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:16:27.681][c3e8823f] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Lang/0/App/pt_BR/1c6a6bc68ba5f92d85485ab98a7fc6d4/
+[19:16:27.961][c3e8823f] INFO[MEMORY]: Memory peak usage: 2MB
+[19:16:27.967][c3e8823f] INFO[TIME]: Time delta: 0.36655402183533
+
+[19:16:51.794][41edcf34] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[19:16:51.799][41edcf34] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:16:51.806][41edcf34] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:16:51.840][41edcf34] AJAX[NOTE]: Action: DoLogin
+[19:16:51.847][41edcf34] POST[DATA]: {"Email":"jefferson@mail.asa.br","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"0","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:16:52.169][41edcf34] INFO[NOTICE]: RainLoop\Exceptions\ClientException: DomainNotAllowed[109] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:1320
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2328): RainLoop\Actions->LoginProvide('jefferson@mail....', 'jefferson@mail....', '*******', '', '', true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@mail....', '*******', '', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[19:16:52.176][41edcf34] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":109,"ErrorMessage":"","ErrorMessageAdditional":"","Time":825}
+[19:16:52.302][41edcf34] INFO[MEMORY]: Memory peak usage: 2MB
+[19:16:52.308][41edcf34] INFO[TIME]: Time delta: 0.84654498100281
+
+[19:17:40.323][c6451657] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[19:17:40.332][c6451657] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:17:40.340][c6451657] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?admin
+[19:17:40.580][c6451657] INFO[MEMORY]: Memory peak usage: 2MB
+[19:17:40.586][c6451657] INFO[TIME]: Time delta: 0.44632196426392
+
+[19:17:41.439][b28378af] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[19:17:41.445][b28378af] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:17:41.452][b28378af] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AdminAppData@no-mobile-0/0/7672131226785119/
+[19:17:41.721][b28378af] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":true,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"none","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","SIEVE","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":true,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[],"adminHostUse":false,"adminPath":"admin","allowAdminPanel":true},"AdminDomain":"asa.br","AdminLogin":"admin","UseTokenProtection":true,"EnabledPlugins":false,"VerifySslCertificate":false,"AllowSelfSigned":true,"MySqlIsSupported":false,"SQLiteIsSupported":false,"PostgreSqlIsSupported":false,"ContactsEnable":false,"ContactsSync":false,"ContactsPdoType":"sqlite","ContactsPdoDsn":"mysql:host=127.0.0.1;port=3306;dbname=rainloop","ContactsPdoUser":"root","ContactsPdoPassword":"********","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleClientSecret":"","GoogleApiKey":"","AllowFacebookSocial":false,"FacebookAppID":"","FacebookAppSecret":"","AllowTwitterSocial":false,"TwitterConsumerKey":"","TwitterConsumerSecret":"","AllowDropboxSocial":false,"DropboxApiKey":"","SubscriptionEnabled":true,"WeakPassword":true,"CoreAccess":true,"PhpUploadSizes":{"upload_max_filesize":"2M","post_max_size":"8M"},"SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/Admin\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/Admin\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/admin.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/admin.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[19:17:41.727][b28378af] INFO[MEMORY]: Memory peak usage: 2MB
+[19:17:41.735][b28378af] INFO[TIME]: Time delta: 0.34526300430298
+
+[19:18:04.571][0ef955ae] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[19:18:04.576][0ef955ae] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:18:04.583][0ef955ae] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:18:04.616][0ef955ae] AJAX[NOTE]: Action: DoAdminDomainList
+[19:18:04.622][0ef955ae] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:18:04.909][0ef955ae] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":705}
+[19:18:05.037][0ef955ae] INFO[MEMORY]: Memory peak usage: 2MB
+[19:18:05.042][0ef955ae] INFO[TIME]: Time delta: 0.76180911064148
+
+[19:18:26.644][733a2c96] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[19:18:26.649][733a2c96] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:18:26.655][733a2c96] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:18:26.682][733a2c96] AJAX[NOTE]: Action: DoAdminDomainLoad
+[19:18:26.687][733a2c96] POST[DATA]: {"Name":"asa.br","Action":"AdminDomainLoad","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:18:26.968][733a2c96] AJAX[DATA]: {"Action":"AdminDomainLoad","Result":{"@Object":"Object\/Domain","Name":"asa.br","IncHost":"mail.asa.br","IncPort":143,"IncSecure":0,"IncShortLogin":true,"UseSieve":false,"SieveHost":"","SievePort":4190,"SieveSecure":0,"SieveAllowRaw":false,"OutHost":"mail.asa.br","OutPort":25,"OutSecure":0,"OutShor...
+[19:18:27.070][733a2c96] INFO[MEMORY]: Memory peak usage: 2MB
+[19:18:27.076][733a2c96] INFO[TIME]: Time delta: 0.72882485389709
+
+[19:18:38.658][bca9c0de] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[19:18:38.665][bca9c0de] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:18:38.672][bca9c0de] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:18:38.691][bca9c0de] AJAX[NOTE]: Action: DoAdminDomainSave
+[19:18:38.698][bca9c0de] POST[DATA]: {"Create":"0","Name":"asa.br","IncHost":"mail.asa.br","IncPort":"143","IncSecure":"0","IncShortLogin":"1","UseSieve":"0","SieveAllowRaw":"0","SieveHost":"","SievePort":"4190","SieveSecure":"0","OutHost":"mail.asa.br","OutPort":"25","OutSecure":"0","OutShortLogin":"1","OutAuth":"0","OutUsePhpMail":"0","WhiteList":"","Action":"AdminDomainSave","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:18:38.915][bca9c0de] AJAX[DATA]: {"Action":"AdminDomainSave","Result":true,"Time":465}
+[19:18:39.074][bca9c0de] INFO[MEMORY]: Memory peak usage: 2MB
+[19:18:39.082][bca9c0de] INFO[TIME]: Time delta: 0.58379888534546
+
+[19:18:39.224][0e60d174] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[19:18:39.232][0e60d174] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:18:39.238][0e60d174] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:18:39.244][0e60d174] AJAX[NOTE]: Action: DoAdminDomainList
+[19:18:39.251][0e60d174] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:18:39.314][0e60d174] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":200}
+[19:18:39.321][0e60d174] INFO[MEMORY]: Memory peak usage: 2MB
+[19:18:39.327][0e60d174] INFO[TIME]: Time delta: 0.16863393783569
+
+[19:19:15.591][defce4f8] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[19:19:15.597][defce4f8] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:19:15.603][defce4f8] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/
+[19:19:15.941][defce4f8] INFO[MEMORY]: Memory peak usage: 2MB
+[19:19:15.947][defce4f8] INFO[TIME]: Time delta: 0.71684694290161
+
+[19:19:16.130][8fd1e1dd] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[19:19:16.136][8fd1e1dd] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:19:16.143][8fd1e1dd] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AppData@no-mobile-0/0/5128512206318887/
+[19:19:16.347][8fd1e1dd] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":false,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":false,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[]},"AdditionalLoginError":"","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleApiKey":"","AllowFacebookSocial":false,"AllowTwitterSocial":false,"AllowDropboxSocial":false,"DropboxApiKey":"","SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/User\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/App\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/app.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/app.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[19:19:16.353][8fd1e1dd] INFO[MEMORY]: Memory peak usage: 2MB
+[19:19:16.359][8fd1e1dd] INFO[TIME]: Time delta: 0.29595398902893
+
+[19:19:31.087][d3ff92ea] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[19:19:31.094][d3ff92ea] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:19:31.102][d3ff92ea] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:19:31.123][d3ff92ea] AJAX[NOTE]: Action: DoLogin
+[19:19:31.129][d3ff92ea] POST[DATA]: {"Email":"admin","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"0","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:19:31.137][d3ff92ea] LOGIN[DATA]: The email address "admin" is not complete
+[19:19:31.143][d3ff92ea] LOGIN[DATA]: Default domain "asa.br" was used. (admin > admin@asa.br)
+[19:19:31.393][d3ff92ea] IMAP[NOTE]: Start connection to "tcp://mail.asa.br:143"
+[19:19:31.433][d3ff92ea] IMAP[NOTE]: Connected (success)
+[19:19:31.511][d3ff92ea] IMAP[DATA]: < * OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ STARTTLS LOGINDISABLED] Dovecot (Ubuntu) ready.\r\n
+[19:19:31.554][d3ff92ea] IMAP[SECURE]: > TAG1 LOGIN "admin" "********"\r\n
+[19:19:31.560][d3ff92ea] IMAP[DATA]: < * BAD [ALERT] Plaintext authentication not allowed without SSL/TLS, but your client did it anyway. If anyone was listening, the password was exposed.\r\n
+[19:19:31.567][d3ff92ea] IMAP[DATA]: < TAG1 NO [PRIVACYREQUIRED] Plaintext authentication disallowed on non-secure (SSL/TLS) connections.\r\n
+[19:19:31.687][d3ff92ea] IMAP[WARNING]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('admin', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('admin', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('admin@asa.br', '*******', '', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+[19:19:31.754][d3ff92ea] IMAP[NOTICE]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('admin', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('admin', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('admin@asa.br', '*******', '', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+
+Next MailSo\Imap\Exceptions\LoginBadCredentialsException: MailSo-Imap-Exceptions-LoginBadCredentialsException (ImapClient.php ~ 314) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:314
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('admin', '*******', '', true, false)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('admin', '*******', '', true, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('admin@asa.br', '*******', '', '', false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#11 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#12 {main}
+[19:19:31.806][d3ff92ea] INFO[ERROR]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('admin', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('admin', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('admin@asa.br', '*******', '', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+
+Next MailSo\Imap\Exceptions\LoginBadCredentialsException: MailSo-Imap-Exceptions-LoginBadCredentialsException (ImapClient.php ~ 314) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:314
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('admin', '*******', '', true, false)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('admin', '*******', '', true, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('admin@asa.br', '*******', '', '', false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#11 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#12 {main}
+
+Next RainLoop\Exceptions\ClientException: AuthError[102] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:2172
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('admin@asa.br', '*******', '', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[19:19:31.812][d3ff92ea] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":102,"ErrorMessage":"","ErrorMessageAdditional":"","Time":972}
+[19:19:31.835][d3ff92ea] INFO[MEMORY]: Memory peak usage: 2MB
+[19:19:31.841][d3ff92ea] INFO[TIME]: Time delta: 0.93291091918945
+[19:19:31.847][d3ff92ea] IMAP[NOTE]: Disconnected from "tcp://mail.asa.br:143" (success)
+
+[19:20:25.378][0329810c] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[19:20:25.384][0329810c] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:20:25.393][0329810c] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:20:25.413][0329810c] AJAX[NOTE]: Action: DoLogin
+[19:20:25.421][0329810c] POST[DATA]: {"Email":"jefferson@mail.asa.br","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"0","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:20:26.590][0329810c] INFO[NOTICE]: RainLoop\Exceptions\ClientException: DomainNotAllowed[109] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:1320
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2328): RainLoop\Actions->LoginProvide('jefferson@mail....', 'jefferson@mail....', '*******', '', '', true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@mail....', '*******', '', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[19:20:26.597][0329810c] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":109,"ErrorMessage":"","ErrorMessageAdditional":"","Time":1452}
+[19:20:26.642][0329810c] INFO[MEMORY]: Memory peak usage: 2MB
+[19:20:26.648][0329810c] INFO[TIME]: Time delta: 1.4544551372528
+
+[19:20:35.600][dad0c944] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[19:20:35.605][dad0c944] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:20:35.612][dad0c944] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:20:35.644][dad0c944] AJAX[NOTE]: Action: DoLogin
+[19:20:35.651][dad0c944] POST[DATA]: {"Email":"jefferson@asa.br","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"0","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:20:35.927][dad0c944] IMAP[NOTE]: Start connection to "tcp://mail.asa.br:143"
+[19:20:35.947][dad0c944] IMAP[NOTE]: Connected (success)
+[19:20:35.991][dad0c944] IMAP[DATA]: < * OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ STARTTLS LOGINDISABLED] Dovecot (Ubuntu) ready.\r\n
+[19:20:36.012][dad0c944] IMAP[SECURE]: > TAG1 LOGIN "jefferson" "********"\r\n
+[19:20:36.018][dad0c944] IMAP[DATA]: < * BAD [ALERT] Plaintext authentication not allowed without SSL/TLS, but your client did it anyway. If anyone was listening, the password was exposed.\r\n
+[19:20:36.024][dad0c944] IMAP[DATA]: < TAG1 NO [PRIVACYREQUIRED] Plaintext authentication disallowed on non-secure (SSL/TLS) connections.\r\n
+[19:20:36.106][dad0c944] IMAP[WARNING]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+[19:20:36.142][dad0c944] IMAP[NOTICE]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+
+Next MailSo\Imap\Exceptions\LoginBadCredentialsException: MailSo-Imap-Exceptions-LoginBadCredentialsException (ImapClient.php ~ 314) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:314
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '', '', false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#11 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#12 {main}
+[19:20:36.195][dad0c944] INFO[ERROR]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+
+Next MailSo\Imap\Exceptions\LoginBadCredentialsException: MailSo-Imap-Exceptions-LoginBadCredentialsException (ImapClient.php ~ 314) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:314
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '', '', false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#11 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#12 {main}
+
+Next RainLoop\Exceptions\ClientException: AuthError[102] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:2172
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[19:20:36.200][dad0c944] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":102,"ErrorMessage":"","ErrorMessageAdditional":"","Time":1054}
+[19:20:36.221][dad0c944] INFO[MEMORY]: Memory peak usage: 2MB
+[19:20:36.227][dad0c944] INFO[TIME]: Time delta: 0.98697710037231
+[19:20:36.234][dad0c944] IMAP[NOTE]: Disconnected from "tcp://mail.asa.br:143" (success)
+
+[19:25:06.832][76e5c9d3] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[19:25:06.837][76e5c9d3] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:25:06.844][76e5c9d3] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/
+[19:25:07.177][76e5c9d3] INFO[MEMORY]: Memory peak usage: 2MB
+[19:25:07.182][76e5c9d3] INFO[TIME]: Time delta: 0.67350006103516
+
+[19:25:07.386][27518495] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[19:25:07.393][27518495] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:25:07.400][27518495] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AppData@no-mobile-0/0/7889165048346132/
+[19:25:07.609][27518495] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":false,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":false,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[]},"AdditionalLoginError":"","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleApiKey":"","AllowFacebookSocial":false,"AllowTwitterSocial":false,"AllowDropboxSocial":false,"DropboxApiKey":"","SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/User\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/App\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/app.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/app.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[19:25:07.616][27518495] INFO[MEMORY]: Memory peak usage: 2MB
+[19:25:07.623][27518495] INFO[TIME]: Time delta: 0.30859184265137
+
+[19:26:35.800][5280f005] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[19:26:35.807][5280f005] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:26:35.814][5280f005] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?admin
+[19:26:36.154][5280f005] INFO[MEMORY]: Memory peak usage: 2MB
+[19:26:36.160][5280f005] INFO[TIME]: Time delta: 0.71124505996704
+
+[19:26:36.372][89309990] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[19:26:36.379][89309990] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:26:36.384][89309990] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AdminAppData@no-mobile-0/0/46298842695734943/
+[19:26:36.659][89309990] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":true,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"none","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","SIEVE","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":true,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[],"adminHostUse":false,"adminPath":"admin","allowAdminPanel":true},"AdminDomain":"asa.br","AdminLogin":"admin","UseTokenProtection":true,"EnabledPlugins":false,"VerifySslCertificate":false,"AllowSelfSigned":true,"MySqlIsSupported":false,"SQLiteIsSupported":false,"PostgreSqlIsSupported":false,"ContactsEnable":false,"ContactsSync":false,"ContactsPdoType":"sqlite","ContactsPdoDsn":"mysql:host=127.0.0.1;port=3306;dbname=rainloop","ContactsPdoUser":"root","ContactsPdoPassword":"********","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleClientSecret":"","GoogleApiKey":"","AllowFacebookSocial":false,"FacebookAppID":"","FacebookAppSecret":"","AllowTwitterSocial":false,"TwitterConsumerKey":"","TwitterConsumerSecret":"","AllowDropboxSocial":false,"DropboxApiKey":"","SubscriptionEnabled":true,"WeakPassword":true,"CoreAccess":true,"PhpUploadSizes":{"upload_max_filesize":"2M","post_max_size":"8M"},"SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/Admin\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/Admin\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/admin.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/admin.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[19:26:36.665][89309990] INFO[MEMORY]: Memory peak usage: 2MB
+[19:26:36.672][89309990] INFO[TIME]: Time delta: 0.37033700942993
+
+[19:26:44.569][493d5868] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[19:26:44.574][493d5868] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:26:44.581][493d5868] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:26:44.613][493d5868] AJAX[NOTE]: Action: DoAdminDomainList
+[19:26:44.621][493d5868] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:26:44.883][493d5868] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":726}
+[19:26:45.035][493d5868] INFO[MEMORY]: Memory peak usage: 2MB
+[19:26:45.047][493d5868] INFO[TIME]: Time delta: 0.78864693641663
+
+[19:26:47.218][e9426db6] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[19:26:47.224][e9426db6] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:26:47.229][e9426db6] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:26:47.247][e9426db6] AJAX[NOTE]: Action: DoAdminDomainLoad
+[19:26:47.252][e9426db6] POST[DATA]: {"Name":"asa.br","Action":"AdminDomainLoad","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:26:47.467][e9426db6] AJAX[DATA]: {"Action":"AdminDomainLoad","Result":{"@Object":"Object\/Domain","Name":"asa.br","IncHost":"mail.asa.br","IncPort":143,"IncSecure":0,"IncShortLogin":true,"UseSieve":false,"SieveHost":"","SievePort":4190,"SieveSecure":0,"SieveAllowRaw":false,"OutHost":"mail.asa.br","OutPort":25,"OutSecure":0,"OutShor...
+[19:26:47.504][e9426db6] INFO[MEMORY]: Memory peak usage: 2MB
+[19:26:47.509][e9426db6] INFO[TIME]: Time delta: 0.44031882286072
+
+[19:28:44.507][a183676d] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[19:28:44.512][a183676d] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:28:44.518][a183676d] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:28:44.553][a183676d] AJAX[NOTE]: Action: DoAdminDomainSave
+[19:28:44.560][a183676d] POST[DATA]: {"Create":"0","Name":"asa.br","IncHost":"mail.asa.br","IncPort":"143","IncSecure":"0","IncShortLogin":"1","UseSieve":"0","SieveAllowRaw":"0","SieveHost":"","SievePort":"4190","SieveSecure":"0","OutHost":"mail.asa.br","OutPort":"25","OutSecure":"0","OutShortLogin":"1","OutAuth":"0","OutUsePhpMail":"0","WhiteList":"","Action":"AdminDomainSave","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:28:44.896][a183676d] AJAX[DATA]: {"Action":"AdminDomainSave","Result":true,"Time":806}
+[19:28:45.031][a183676d] INFO[MEMORY]: Memory peak usage: 2MB
+[19:28:45.036][a183676d] INFO[TIME]: Time delta: 0.85130786895752
+
+[19:28:45.199][e998d9d6] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[19:28:45.206][e998d9d6] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[19:28:45.215][e998d9d6] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[19:28:45.221][e998d9d6] AJAX[NOTE]: Action: DoAdminDomainList
+[19:28:45.230][e998d9d6] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[19:28:45.309][e998d9d6] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":246}
+[19:28:45.317][e998d9d6] INFO[MEMORY]: Memory peak usage: 2MB
+[19:28:45.325][e998d9d6] INFO[TIME]: Time delta: 0.20952796936035
+
+[21:08:45.877][7b9e0959] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:49][Apache/2.4.38 (Debian)][apache2handler]
+[21:08:45.882][7b9e0959] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:08:45.886][7b9e0959] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/
+[21:08:46.188][7b9e0959] INFO[MEMORY]: Memory peak usage: 6MB
+[21:08:46.192][7b9e0959] INFO[TIME]: Time delta: 0.62856197357178
+
+[21:08:46.328][f7151ca2] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:50][Apache/2.4.38 (Debian)][apache2handler]
+[21:08:46.332][f7151ca2] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:08:46.341][f7151ca2] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Css/0/User/-/Default/-/1c6a6bc68ba5f92d85485ab98a7fc6d4/Hash/-/
+[21:08:46.390][f7151ca2] INFO[MEMORY]: Memory peak usage: 2MB
+[21:08:46.395][f7151ca2] INFO[TIME]: Time delta: 0.11272311210632
+
+[21:08:46.533][56661c05] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:51][Apache/2.4.38 (Debian)][apache2handler]
+[21:08:46.541][56661c05] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:08:46.547][56661c05] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AppData@no-mobile-0/0/6594519499087828/
+[21:08:46.707][56661c05] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":false,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":false,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[]},"AdditionalLoginError":"","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleApiKey":"","AllowFacebookSocial":false,"AllowTwitterSocial":false,"AllowDropboxSocial":false,"DropboxApiKey":"","SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/User\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/App\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/app.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/app.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[21:08:46.730][56661c05] INFO[MEMORY]: Memory peak usage: 2MB
+[21:08:46.735][56661c05] INFO[TIME]: Time delta: 0.26557993888855
+
+[21:08:46.865][a42d6bff] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:52][Apache/2.4.38 (Debian)][apache2handler]
+[21:08:46.871][a42d6bff] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:08:46.875][a42d6bff] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Lang/0/App/pt_BR/1c6a6bc68ba5f92d85485ab98a7fc6d4/
+[21:08:46.917][a42d6bff] INFO[MEMORY]: Memory peak usage: 2MB
+[21:08:46.923][a42d6bff] INFO[TIME]: Time delta: 0.10477113723755
+
+[21:09:13.189][e4be2832] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:53][Apache/2.4.38 (Debian)][apache2handler]
+[21:09:13.194][e4be2832] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:09:13.199][e4be2832] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:09:13.224][e4be2832] AJAX[NOTE]: Action: DoLogin
+[21:09:13.229][e4be2832] POST[DATA]: {"Email":"jefferson@mail.asa.br","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"1","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:09:13.456][e4be2832] INFO[NOTICE]: RainLoop\Exceptions\ClientException: DomainNotAllowed[109] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:1320
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2328): RainLoop\Actions->LoginProvide('jefferson@mail....', 'jefferson@mail....', '*******', 'a63a3fd20e654e9...', '', true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@mail....', '*******', 'a63a3fd20e654e9...', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[21:09:13.461][e4be2832] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":109,"ErrorMessage":"","ErrorMessageAdditional":"","Time":625}
+[21:09:13.573][e4be2832] INFO[MEMORY]: Memory peak usage: 2MB
+[21:09:13.577][e4be2832] INFO[TIME]: Time delta: 0.65562200546265
+
+[21:10:20.057][c242b410] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[21:10:20.062][c242b410] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:10:20.067][c242b410] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?admin
+[21:10:20.400][c242b410] INFO[MEMORY]: Memory peak usage: 2MB
+[21:10:20.405][c242b410] INFO[TIME]: Time delta: 0.61226797103882
+
+[21:10:20.499][18a2532d] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:49][Apache/2.4.38 (Debian)][apache2handler]
+[21:10:20.505][18a2532d] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:10:20.510][18a2532d] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Css/0/Admin/-/Default/-/1c6a6bc68ba5f92d85485ab98a7fc6d4/Hash/-/
+[21:10:20.562][18a2532d] INFO[MEMORY]: Memory peak usage: 2MB
+[21:10:20.568][18a2532d] INFO[TIME]: Time delta: 0.10739398002625
+
+[21:10:20.655][940d6d86] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:50][Apache/2.4.38 (Debian)][apache2handler]
+[21:10:20.660][940d6d86] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:10:20.667][940d6d86] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AdminAppData@no-mobile-0/0/5888412332208111/
+[21:10:20.879][940d6d86] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":true,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"none","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","SIEVE","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":true,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[],"adminHostUse":false,"adminPath":"admin","allowAdminPanel":true},"AdminDomain":"asa.br","AdminLogin":"admin","UseTokenProtection":true,"EnabledPlugins":false,"VerifySslCertificate":false,"AllowSelfSigned":true,"MySqlIsSupported":false,"SQLiteIsSupported":false,"PostgreSqlIsSupported":false,"ContactsEnable":false,"ContactsSync":false,"ContactsPdoType":"sqlite","ContactsPdoDsn":"mysql:host=127.0.0.1;port=3306;dbname=rainloop","ContactsPdoUser":"root","ContactsPdoPassword":"********","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleClientSecret":"","GoogleApiKey":"","AllowFacebookSocial":false,"FacebookAppID":"","FacebookAppSecret":"","AllowTwitterSocial":false,"TwitterConsumerKey":"","TwitterConsumerSecret":"","AllowDropboxSocial":false,"DropboxApiKey":"","SubscriptionEnabled":true,"WeakPassword":true,"CoreAccess":true,"PhpUploadSizes":{"upload_max_filesize":"2M","post_max_size":"8M"},"SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/Admin\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/Admin\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/admin.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/admin.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[21:10:20.894][940d6d86] INFO[MEMORY]: Memory peak usage: 2MB
+[21:10:20.900][940d6d86] INFO[TIME]: Time delta: 0.28316307067871
+
+[21:10:20.998][e66934fa] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.4][PID:51][Apache/2.4.38 (Debian)][apache2handler]
+[21:10:21.004][e66934fa] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:10:21.008][e66934fa] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Lang/0/Admin/pt_BR/1c6a6bc68ba5f92d85485ab98a7fc6d4/
+[21:10:21.040][e66934fa] INFO[MEMORY]: Memory peak usage: 2MB
+[21:10:21.044][e66934fa] INFO[TIME]: Time delta: 0.079399824142456
+
+[21:17:22.396][a930f39a] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[21:17:22.400][a930f39a] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:17:22.405][a930f39a] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?admin
+[21:17:22.766][a930f39a] INFO[MEMORY]: Memory peak usage: 6MB
+[21:17:22.770][a930f39a] INFO[TIME]: Time delta: 0.7298948764801
+
+[21:17:23.190][f002e845] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[21:17:23.197][f002e845] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:17:23.203][f002e845] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AdminAppData@no-mobile-0/0/5714134613214319/
+[21:17:23.427][f002e845] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":true,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"none","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","SIEVE","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":true,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[],"adminHostUse":false,"adminPath":"admin","allowAdminPanel":true},"AdminDomain":"asa.br","AdminLogin":"admin","UseTokenProtection":true,"EnabledPlugins":false,"VerifySslCertificate":false,"AllowSelfSigned":true,"MySqlIsSupported":false,"SQLiteIsSupported":false,"PostgreSqlIsSupported":false,"ContactsEnable":false,"ContactsSync":false,"ContactsPdoType":"sqlite","ContactsPdoDsn":"mysql:host=127.0.0.1;port=3306;dbname=rainloop","ContactsPdoUser":"root","ContactsPdoPassword":"********","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleClientSecret":"","GoogleApiKey":"","AllowFacebookSocial":false,"FacebookAppID":"","FacebookAppSecret":"","AllowTwitterSocial":false,"TwitterConsumerKey":"","TwitterConsumerSecret":"","AllowDropboxSocial":false,"DropboxApiKey":"","SubscriptionEnabled":true,"WeakPassword":true,"CoreAccess":true,"PhpUploadSizes":{"upload_max_filesize":"2M","post_max_size":"8M"},"SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Default","NewThemeLink":".\/?\/Css\/0\/Admin\/-\/Default\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/Admin\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/admin.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/admin.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[21:17:23.459][f002e845] INFO[MEMORY]: Memory peak usage: 2MB
+[21:17:23.466][f002e845] INFO[TIME]: Time delta: 0.32911396026611
+
+
+[21:17:30.378][d3932e7c] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[21:17:30.380][19ccd06c] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[21:17:30.384][19ccd06c] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:17:30.383][d3932e7c] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:17:30.387][d3932e7c] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Css/0/Admin/-/Blurred/-/1c6a6bc68ba5f92d85485ab98a7fc6d4/Hash/-/Json/
+[21:17:30.387][19ccd06c] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:17:30.398][19ccd06c] AJAX[NOTE]: Action: DoAdminSettingsUpdate
+[21:17:30.404][19ccd06c] POST[DATA]: {"Theme":"Blurred","Action":"AdminSettingsUpdate","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:17:30.548][19ccd06c] AJAX[DATA]: {"Action":"AdminSettingsUpdate","Result":true,"Time":315}
+[21:17:30.643][19ccd06c] INFO[MEMORY]: Memory peak usage: 2MB
+[21:17:30.644][d3932e7c] INFO[MEMORY]: Memory peak usage: 4MB
+[21:17:30.647][19ccd06c] INFO[TIME]: Time delta: 0.37324500083923
+[21:17:30.647][d3932e7c] INFO[TIME]: Time delta: 0.37530303001404
+
+[21:17:33.821][3a433f9b] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[21:17:33.826][3a433f9b] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:17:33.831][3a433f9b] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:17:33.847][3a433f9b] AJAX[NOTE]: Action: DoAdminDomainList
+[21:17:33.853][3a433f9b] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:17:33.995][3a433f9b] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[false,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":335}
+[21:17:34.033][3a433f9b] INFO[MEMORY]: Memory peak usage: 2MB
+[21:17:34.037][3a433f9b] INFO[TIME]: Time delta: 0.33946990966797
+
+[21:17:36.536][883e111e] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[21:17:36.543][883e111e] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:17:36.550][883e111e] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:17:36.580][883e111e] AJAX[NOTE]: Action: DoAdminDomainLoad
+[21:17:36.587][883e111e] POST[DATA]: {"Name":"asa.br","Action":"AdminDomainLoad","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:17:36.825][883e111e] AJAX[DATA]: {"Action":"AdminDomainLoad","Result":{"@Object":"Object\/Domain","Name":"asa.br","IncHost":"mail.asa.br","IncPort":143,"IncSecure":0,"IncShortLogin":true,"UseSieve":false,"SieveHost":"","SievePort":4190,"SieveSecure":0,"SieveAllowRaw":false,"OutHost":"mail.asa.br","OutPort":25,"OutSecure":0,"OutShor...
+[21:17:36.887][883e111e] INFO[MEMORY]: Memory peak usage: 2MB
+[21:17:36.891][883e111e] INFO[TIME]: Time delta: 0.60612392425537
+
+[21:23:23.582][55197e18] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[21:23:23.586][55197e18] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:23:23.590][55197e18] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:23:23.611][55197e18] AJAX[NOTE]: Action: DoAdminPluginList
+[21:23:23.615][55197e18] POST[DATA]: {"Action":"AdminPluginList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:23:23.695][55197e18] AJAX[DATA]: {"Action":"AdminPluginList","Result":[],"Time":371}
+[21:23:23.788][55197e18] INFO[MEMORY]: Memory peak usage: 2MB
+[21:23:23.791][55197e18] INFO[TIME]: Time delta: 0.41103911399841
+
+[21:23:27.469][fe7d7023] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[21:23:27.474][fe7d7023] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:23:27.479][fe7d7023] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:23:27.503][fe7d7023] AJAX[NOTE]: Action: DoAdminPackagesList
+[21:23:27.508][fe7d7023] POST[DATA]: {"Action":"AdminPackagesList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:23:27.677][fe7d7023] INFO[DATA]: cUrl: URL: http://repository.rainloop.net/v1/repository.json
+[21:23:28.333][fe7d7023] INFO[DATA]: cUrl: Request result: true (Status: 200, ContentType: application/json)
+[21:23:28.371][fe7d7023] AJAX[DATA]: {"Action":"AdminPackagesList","Result":{"Real":true,"MainUpdatable":false,"List":[{"type":"plugin","id":"add-x-originating-ip-header","name":"X-Originating-IP","installed":"","version":"1.2","file":"plugins\/add-x-originating-ip-header-1.2.zip","release":"11.12.2013","desc":"Adds X-Originating-IP he...
+[21:23:28.484][fe7d7023] INFO[MEMORY]: Memory peak usage: 2MB
+[21:23:28.489][fe7d7023] INFO[TIME]: Time delta: 1.2804100513458
+
+[21:23:31.934][1b186548] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[21:23:31.939][1b186548] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:23:31.946][1b186548] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:23:31.971][1b186548] AJAX[NOTE]: Action: DoAdminPackageInstall
+[21:23:31.977][1b186548] POST[DATA]: {"Id":"recaptcha","Type":"plugin","File":"plugins\/recaptcha-2.1.zip","Action":"AdminPackageInstall","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:23:32.081][1b186548] INSTALLER[DATA]: Start package install: plugins/recaptcha-2.1.zip (plugin)
+[21:23:32.158][1b186548] INFO[DATA]: cUrl: URL: http://repository.rainloop.net/v1/plugins/recaptcha-2.1.zip
+[21:23:33.010][1b186548] INFO[DATA]: cUrl: Request result: true (Status: 200, ContentType: application/zip)
+[21:23:33.318][1b186548] AJAX[DATA]: {"Action":"AdminPackageInstall","Result":true,"Time":1753}
+[21:23:33.447][1b186548] INFO[MEMORY]: Memory peak usage: 4MB
+[21:23:33.453][1b186548] INFO[TIME]: Time delta: 1.7817931175232
+
+[21:23:33.577][fdd38ec6] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[21:23:33.584][fdd38ec6] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:23:33.589][fdd38ec6] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:23:33.594][fdd38ec6] AJAX[NOTE]: Action: DoAdminPackagesList
+[21:23:33.603][fdd38ec6] POST[DATA]: {"Action":"AdminPackagesList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:23:33.733][fdd38ec6] AJAX[DATA]: {"Action":"AdminPackagesList","Result":{"Real":true,"MainUpdatable":false,"List":[{"type":"plugin","id":"add-x-originating-ip-header","name":"X-Originating-IP","installed":"","version":"1.2","file":"plugins\/add-x-originating-ip-header-1.2.zip","release":"11.12.2013","desc":"Adds X-Originating-IP he...
+[21:23:33.746][fdd38ec6] INFO[MEMORY]: Memory peak usage: 2MB
+[21:23:33.752][fdd38ec6] INFO[TIME]: Time delta: 0.23206090927124
+
+[21:24:18.625][d0d44117] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[21:24:18.629][d0d44117] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:24:18.634][d0d44117] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:24:18.660][d0d44117] AJAX[NOTE]: Action: DoAdminDomainDisable
+[21:24:18.665][d0d44117] POST[DATA]: {"Name":"outlook.com","Disabled":"0","Action":"AdminDomainDisable","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:24:18.852][d0d44117] AJAX[DATA]: {"Action":"AdminDomainDisable","Result":true,"Time":568}
+[21:24:18.949][d0d44117] INFO[MEMORY]: Memory peak usage: 2MB
+[21:24:18.955][d0d44117] INFO[TIME]: Time delta: 0.60070705413818
+
+[21:24:19.074][1b837339] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[21:24:19.079][1b837339] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:24:19.085][1b837339] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:24:19.092][1b837339] AJAX[NOTE]: Action: DoAdminDomainList
+[21:24:19.098][1b837339] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:24:19.156][1b837339] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"outlook.com":[true,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":180}
+[21:24:19.164][1b837339] INFO[MEMORY]: Memory peak usage: 2MB
+[21:24:19.169][1b837339] INFO[TIME]: Time delta: 0.16114592552185
+
+[21:24:36.929][f4749120] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[21:24:36.933][f4749120] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:24:36.937][f4749120] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:24:36.947][f4749120] AJAX[NOTE]: Action: DoAdminDomainLoad
+[21:24:36.951][f4749120] POST[DATA]: {"Name":"asa.br","Action":"AdminDomainLoad","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:24:37.067][f4749120] AJAX[DATA]: {"Action":"AdminDomainLoad","Result":{"@Object":"Object\/Domain","Name":"asa.br","IncHost":"mail.asa.br","IncPort":143,"IncSecure":0,"IncShortLogin":true,"UseSieve":false,"SieveHost":"","SievePort":4190,"SieveSecure":0,"SieveAllowRaw":false,"OutHost":"mail.asa.br","OutPort":25,"OutSecure":0,"OutShor...
+[21:24:37.089][f4749120] INFO[MEMORY]: Memory peak usage: 2MB
+[21:24:37.093][f4749120] INFO[TIME]: Time delta: 0.25210499763489
+
+[21:24:50.640][6132aaca] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[21:24:50.645][6132aaca] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:24:50.650][6132aaca] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:24:50.671][6132aaca] AJAX[NOTE]: Action: DoAdminDomainLoad
+[21:24:50.678][6132aaca] POST[DATA]: {"Name":"asa.br","Action":"AdminDomainLoad","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:24:50.831][6132aaca] AJAX[DATA]: {"Action":"AdminDomainLoad","Result":{"@Object":"Object\/Domain","Name":"asa.br","IncHost":"mail.asa.br","IncPort":143,"IncSecure":0,"IncShortLogin":true,"UseSieve":false,"SieveHost":"","SievePort":4190,"SieveSecure":0,"SieveAllowRaw":false,"OutHost":"mail.asa.br","OutPort":25,"OutSecure":0,"OutShor...
+[21:24:50.863][6132aaca] INFO[MEMORY]: Memory peak usage: 2MB
+[21:24:50.868][6132aaca] INFO[TIME]: Time delta: 0.34580612182617
+
+[21:25:27.275][b18f2bef] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[21:25:27.280][b18f2bef] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:25:27.286][b18f2bef] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:25:27.310][b18f2bef] AJAX[NOTE]: Action: DoAdminDomainSave
+[21:25:27.315][b18f2bef] POST[DATA]: {"Create":"1","Name":"mail","IncHost":"asa.br","IncPort":"143","IncSecure":"0","IncShortLogin":"1","UseSieve":"0","SieveAllowRaw":"0","SieveHost":"","SievePort":"4190","SieveSecure":"0","OutHost":"asa.br","OutPort":"25","OutSecure":"0","OutShortLogin":"1","OutAuth":"0","OutUsePhpMail":"0","WhiteList":"","Action":"AdminDomainSave","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:25:27.549][b18f2bef] AJAX[DATA]: {"Action":"AdminDomainSave","Result":true,"Time":595}
+[21:25:27.651][b18f2bef] INFO[MEMORY]: Memory peak usage: 2MB
+[21:25:27.656][b18f2bef] INFO[TIME]: Time delta: 0.63554382324219
+
+[21:25:27.741][5a7594f1] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[21:25:27.746][5a7594f1] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:25:27.752][5a7594f1] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:25:27.758][5a7594f1] AJAX[NOTE]: Action: DoAdminDomainList
+[21:25:27.764][5a7594f1] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:25:27.800][5a7594f1] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"mail":[true,false],"outlook.com":[true,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":123}
+[21:25:27.806][5a7594f1] INFO[MEMORY]: Memory peak usage: 2MB
+[21:25:27.811][5a7594f1] INFO[TIME]: Time delta: 0.1185028553009
+
+[21:25:53.598][a5561f53] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[21:25:53.605][a5561f53] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:25:53.612][a5561f53] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?admin
+[21:25:54.666][a5561f53] INFO[MEMORY]: Memory peak usage: 2MB
+[21:25:54.674][a5561f53] INFO[TIME]: Time delta: 1.2185070514679
+
+[21:25:54.764][02b923af] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[21:25:54.769][02b923af] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:25:54.775][02b923af] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Css/0/Admin/-/Blurred/-/1c6a6bc68ba5f92d85485ab98a7fc6d4/Hash/-/
+[21:25:54.851][02b923af] INFO[MEMORY]: Memory peak usage: 2MB
+[21:25:54.856][02b923af] INFO[TIME]: Time delta: 0.12996697425842
+
+[21:25:54.969][3acf1704] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[21:25:54.975][3acf1704] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:25:54.979][3acf1704] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AdminAppData@no-mobile-0/0/9207916518197554/
+[21:25:55.136][3acf1704] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":true,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"none","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","SIEVE","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":true,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[],"adminHostUse":false,"adminPath":"admin","allowAdminPanel":true},"AdminDomain":"asa.br","AdminLogin":"admin","UseTokenProtection":true,"EnabledPlugins":false,"VerifySslCertificate":false,"AllowSelfSigned":true,"MySqlIsSupported":false,"SQLiteIsSupported":false,"PostgreSqlIsSupported":false,"ContactsEnable":false,"ContactsSync":false,"ContactsPdoType":"sqlite","ContactsPdoDsn":"mysql:host=127.0.0.1;port=3306;dbname=rainloop","ContactsPdoUser":"root","ContactsPdoPassword":"********","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleClientSecret":"","GoogleApiKey":"","AllowFacebookSocial":false,"FacebookAppID":"","FacebookAppSecret":"","AllowTwitterSocial":false,"TwitterConsumerKey":"","TwitterConsumerSecret":"","AllowDropboxSocial":false,"DropboxApiKey":"","SubscriptionEnabled":true,"WeakPassword":true,"CoreAccess":true,"PhpUploadSizes":{"upload_max_filesize":"2M","post_max_size":"8M"},"SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Blurred","NewThemeLink":".\/?\/Css\/0\/Admin\/-\/Blurred\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/Admin\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/admin.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/admin.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[21:25:55.142][3acf1704] INFO[MEMORY]: Memory peak usage: 2MB
+[21:25:55.147][3acf1704] INFO[TIME]: Time delta: 0.2193078994751
+
+[21:25:55.431][2b40d2e4] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[21:25:55.437][2b40d2e4] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:25:55.444][2b40d2e4] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:25:55.451][2b40d2e4] AJAX[NOTE]: Action: DoAdminDomainList
+[21:25:55.456][2b40d2e4] POST[DATA]: {"IncludeAliases":"1","Action":"AdminDomainList","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:25:55.596][2b40d2e4] AJAX[DATA]: {"Action":"AdminDomainList","Result":{"asa.br":[true,false],"gmail.com":[true,false],"mail":[true,false],"outlook.com":[true,false],"qq.com":[false,false],"yahoo.com":[false,false]},"Time":256}
+[21:25:55.602][2b40d2e4] INFO[MEMORY]: Memory peak usage: 2MB
+[21:25:55.608][2b40d2e4] INFO[TIME]: Time delta: 0.23702621459961
+
+[21:26:12.071][235c64d5] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[21:26:12.077][235c64d5] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:26:12.082][235c64d5] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/
+[21:26:13.997][235c64d5] INFO[MEMORY]: Memory peak usage: 2MB
+[21:26:14.004][235c64d5] INFO[TIME]: Time delta: 2.1936938762665
+
+[21:26:14.296][3a07e025] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[21:26:14.305][3a07e025] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:26:14.315][3a07e025] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/Css/0/User/-/Blurred/-/1c6a6bc68ba5f92d85485ab98a7fc6d4/Hash/-/
+[21:26:14.478][3a07e025] INFO[MEMORY]: Memory peak usage: 2MB
+[21:26:14.485][3a07e025] INFO[TIME]: Time delta: 0.35598111152649
+
+[21:26:14.663][7f5dbcdb] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[21:26:14.670][7f5dbcdb] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:26:14.676][7f5dbcdb] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AppData@no-mobile-0/0/7292200263641548/
+[21:26:14.877][7f5dbcdb] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":false,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":false,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[]},"AdditionalLoginError":"","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleApiKey":"","AllowFacebookSocial":false,"AllowTwitterSocial":false,"AllowDropboxSocial":false,"DropboxApiKey":"","SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Blurred","NewThemeLink":".\/?\/Css\/0\/User\/-\/Blurred\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/App\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/app.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/app.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[21:26:14.886][7f5dbcdb] INFO[MEMORY]: Memory peak usage: 2MB
+[21:26:14.892][7f5dbcdb] INFO[TIME]: Time delta: 0.2872850894928
+
+[21:26:31.726][ccf86795] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:31][Apache/2.4.38 (Debian)][apache2handler]
+[21:26:31.732][ccf86795] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:26:31.738][ccf86795] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:26:31.763][ccf86795] AJAX[NOTE]: Action: DoLogin
+[21:26:31.768][ccf86795] POST[DATA]: {"Email":"jefferson@mail.asa.br","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"1","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:26:32.941][ccf86795] INFO[NOTICE]: RainLoop\Exceptions\ClientException: DomainNotAllowed[109] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:1320
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2328): RainLoop\Actions->LoginProvide('jefferson@mail....', 'jefferson@mail....', '*******', '4d2639c2c01db68...', '', true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@mail....', '*******', '4d2639c2c01db68...', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[21:26:32.947][ccf86795] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":109,"ErrorMessage":"","ErrorMessageAdditional":"","Time":1590}
+[21:26:33.047][ccf86795] INFO[MEMORY]: Memory peak usage: 2MB
+[21:26:33.052][ccf86795] INFO[TIME]: Time delta: 1.6329298019409
+
+[21:26:37.706][e5641ba0] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:33][Apache/2.4.38 (Debian)][apache2handler]
+[21:26:37.712][e5641ba0] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:26:37.717][e5641ba0] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:26:37.741][e5641ba0] AJAX[NOTE]: Action: DoLogin
+[21:26:37.747][e5641ba0] POST[DATA]: {"Email":"jefferson@asa.br","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"1","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:26:37.948][e5641ba0] IMAP[NOTE]: Start connection to "tcp://mail.asa.br:143"
+[21:26:37.967][e5641ba0] IMAP[NOTE]: Connected (success)
+[21:26:38.007][e5641ba0] IMAP[DATA]: < * OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ STARTTLS LOGINDISABLED] Dovecot (Ubuntu) ready.\r\n
+[21:26:38.027][e5641ba0] IMAP[SECURE]: > TAG1 LOGIN "jefferson" "********"\r\n
+[21:26:38.032][e5641ba0] IMAP[DATA]: < * BAD [ALERT] Plaintext authentication not allowed without SSL/TLS, but your client did it anyway. If anyone was listening, the password was exposed.\r\n
+[21:26:38.038][e5641ba0] IMAP[DATA]: < TAG1 NO [PRIVACYREQUIRED] Plaintext authentication disallowed on non-secure (SSL/TLS) connections.\r\n
+[21:26:38.110][e5641ba0] IMAP[WARNING]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '44861d5b2f0899a...', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+[21:26:38.147][e5641ba0] IMAP[NOTICE]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '44861d5b2f0899a...', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+
+Next MailSo\Imap\Exceptions\LoginBadCredentialsException: MailSo-Imap-Exceptions-LoginBadCredentialsException (ImapClient.php ~ 314) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:314
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '44861d5b2f0899a...', '', false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#11 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#12 {main}
+[21:26:38.189][e5641ba0] INFO[ERROR]: MailSo\Imap\Exceptions\NegativeResponseException: MailSo-Imap-Exceptions-NegativeResponseException (ImapClient.php ~ 1921) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:1921
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1998): MailSo\Imap\ImapClient->validateResponse(Array)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(1878): MailSo\Imap\ImapClient->parseResponseWithValidation(NULL, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php(296): MailSo\Imap\ImapClient->SendRequestWithCheck('LOGIN', Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '44861d5b2f0899a...', '', false)
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#11 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#12 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#13 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#14 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#15 {main}
+
+Next MailSo\Imap\Exceptions\LoginBadCredentialsException: MailSo-Imap-Exceptions-LoginBadCredentialsException (ImapClient.php ~ 314) in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Imap/ImapClient.php:314
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/MailSo/Mail/MailClient.php(93): MailSo\Imap\ImapClient->Login('jefferson', '*******', '', true, false)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Model/Account.php(508): MailSo\Mail\MailClient->Login('jefferson', '*******', '', true, false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2153): RainLoop\Model\Account->IncConnectAndLoginHelper(Object(RainLoop\Plugins\Manager), Object(MailSo\Mail\MailClient), Object(RainLoop\Config\Application), Array)
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '44861d5b2f0899a...', '', false)
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#8 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#9 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#10 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#11 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#12 {main}
+
+Next RainLoop\Exceptions\ClientException: AuthError[102] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:2172
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2404): RainLoop\Actions->CheckMailConnection(Object(RainLoop\Model\Account), true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@asa.b...', '*******', '44861d5b2f0899a...', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[21:26:38.194][e5641ba0] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":102,"ErrorMessage":"","ErrorMessageAdditional":"","Time":849}
+[21:26:38.229][e5641ba0] INFO[MEMORY]: Memory peak usage: 2MB
+[21:26:38.234][e5641ba0] INFO[TIME]: Time delta: 0.81563997268677
+[21:26:38.239][e5641ba0] IMAP[NOTE]: Disconnected from "tcp://mail.asa.br:143" (success)
+
+[21:26:54.485][f2590018] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:32][Apache/2.4.38 (Debian)][apache2handler]
+[21:26:54.489][f2590018] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:26:54.495][f2590018] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:26:54.519][f2590018] AJAX[NOTE]: Action: DoLogin
+[21:26:54.524][f2590018] POST[DATA]: {"Email":"jefferson@hotmail.com","Login":"","Password":"*******","Language":"","AdditionalCode":"","AdditionalCodeSignMe":"0","SignMe":"1","Action":"Login","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:26:55.682][f2590018] INFO[NOTICE]: RainLoop\Exceptions\ClientException: DomainNotAllowed[109] in /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php:1320
+Stack trace:
+#0 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2328): RainLoop\Actions->LoginProvide('jefferson@hotma...', 'jefferson@hotma...', '*******', '1bab03b18b164ef...', '', true)
+#1 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Actions.php(2456): RainLoop\Actions->LoginProcess('jefferson@hotma...', '*******', '1bab03b18b164ef...', '', false)
+#2 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/ServiceActions.php(174): RainLoop\Actions->DoLogin()
+#3 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(151): RainLoop\ServiceActions->ServiceAjax('')
+#4 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(62): RainLoop\Service->localHandle()
+#5 /var/www/html/rainloop/rainloop/v/1.16.0/app/libraries/RainLoop/Service.php(85): RainLoop\Service->__construct()
+#6 /var/www/html/rainloop/rainloop/v/1.16.0/app/handle.php(94): RainLoop\Service::Handle()
+#7 /var/www/html/rainloop/rainloop/v/1.16.0/include.php(243): include('/var/www/html/r...')
+#8 /var/www/html/rainloop/index.php(13): include('/var/www/html/r...')
+#9 {main}
+[21:26:55.688][f2590018] AJAX[DATA]: {"Action":"Login","Result":false,"ErrorCode":109,"ErrorMessage":"","ErrorMessageAdditional":"","Time":1506}
+[21:26:55.737][f2590018] INFO[MEMORY]: Memory peak usage: 2MB
+[21:26:55.743][f2590018] INFO[TIME]: Time delta: 1.5019409656525
+
+[21:27:03.903][91fd08aa] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:54][Apache/2.4.38 (Debian)][apache2handler]
+[21:27:03.908][91fd08aa] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:27:03.913][91fd08aa] REQUEST[NOTE]: [POST] https://www.asa.br/rainloop/?/Ajax/&q[]=/0/
+[21:27:03.927][91fd08aa] AJAX[NOTE]: Action: DoAdminDomainLoad
+[21:27:03.932][91fd08aa] POST[DATA]: {"Name":"outlook.com","Action":"AdminDomainLoad","XToken":"904dd03e8326fa4857458423e9bf9658"}
+[21:27:04.110][91fd08aa] AJAX[DATA]: {"Action":"AdminDomainLoad","Result":{"@Object":"Object\/Domain","Name":"outlook.com","IncHost":"imap-mail.outlook.com","IncPort":993,"IncSecure":1,"IncShortLogin":false,"UseSieve":false,"SieveHost":"","SievePort":4190,"SieveSecure":0,"SieveAllowRaw":false,"OutHost":"smtp-mail.outlook.com","OutPort"...
+[21:27:04.159][91fd08aa] INFO[MEMORY]: Memory peak usage: 2MB
+[21:27:04.166][91fd08aa] INFO[TIME]: Time delta: 0.37404203414917
+
+[21:29:43.968][9219c8ef] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:29][Apache/2.4.38 (Debian)][apache2handler]
+[21:29:43.971][9219c8ef] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:29:43.974][9219c8ef] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/
+[21:29:44.172][9219c8ef] INFO[MEMORY]: Memory peak usage: 2MB
+[21:29:44.175][9219c8ef] INFO[TIME]: Time delta: 0.40275001525879
+
+[21:29:44.297][22a5ba4a] INFO[DATA]: [DATE:10.02.23][OFFSET:-00][RL:1.16.0][PHP:7.3.31-1~deb10u2][IP:172.19.0.6][PID:30][Apache/2.4.38 (Debian)][apache2handler]
+[21:29:44.303][22a5ba4a] INFO[DATA]: [APC:off][MB:off][PDO:~][Streams:tcp,udp,unix,udg,ssl,tls,tlsv1.0,tlsv1.1,tlsv1.2]
+[21:29:44.307][22a5ba4a] REQUEST[NOTE]: [GET] https://www.asa.br/rainloop/?/AppData@no-mobile-0/0/511902801600089/
+[21:29:44.434][22a5ba4a] APPDATA[DATA]: if(window.__initAppData){window.__initAppData({"Auth":false,"AccountHash":"","AccountSignMe":false,"AuthAccountHash":"","MailToEmail":"","Email":"","DevEmail":"","DevPassword":"","Title":"RainLoop Webmail","LoadingDescription":"RainLoop","LoadingDescriptionEsc":"RainLoop","FaviconUrl":"","LoginDescription":"","LoginLogo":"","LoginBackground":"","LoginCss":"","UserLogo":"","UserLogoTitle":"","UserLogoMessage":"","UserCss":"","WelcomePageUrl":"","WelcomePageDisplay":"","IncludeCss":"","IncludeBackground":"","LoginDefaultDomain":"asa.br","DetermineUserLanguage":true,"DetermineUserDomain":false,"UseLoginWelcomePage":false,"StartupUrl":"","SieveAllowFileintoInbox":false,"ContactsIsAllowed":false,"ChangePasswordIsAllowed":false,"RequireTwoFactor":false,"Community":true,"PremType":false,"Admin":[],"Capa":["FOLDERS","MESSAGELIST_ACTIONS","DANGEROUS_ACTIONS","RELOAD","QUOTA","SETTINGS","ADDITIONAL_ACCOUNTS","IDENTITIES","THEMES","USER_BACKGROUND","FILTERS","HELP","ATTACHMENTS_ACTIONS","MESSAGE_ACTIONS","COMPOSER","CONTACTS","SEARCH","SEARCH_ADV","GRAVATAR","ATTACHMENT_THUMBNAILS","PREFETCH","AUTOLOGOUT"],"Plugins":[],"System":{"version":"1.16.0","admin":false,"mobile":false,"mobileDevice":false,"webPath":"","webVersionPath":"rainloop\/v\/1.16.0\/","token":"904dd03e8326fa4857458423e9bf9658","inIframe":false,"allowHtmlEditorSourceButton":false,"allowHtmlEditorBitiButtons":false,"allowCtrlEnterOnCompose":true,"customLoginLink":"","customLogoutLink":"","forgotPasswordLinkUrl":"","registrationLinkUrl":"","hideSubmitButton":true,"jsHash":"85cf684f6fe442135c6f643e21515a7e","useImapThread":true,"useImapSubscribe":true,"allowAppendMessage":false,"materialDesign":true,"folderSpecLimit":50,"faviconStatus":true,"allowCmdInterface":false,"useNativeScrollbars":false,"listPermanentFiltered":false,"themes":["Default","A","Blurred","DarkShine","Linen","Love","Snow","Squares","SquaresDark","Stripes","Wood","Xv","Clear"],"languages":["ar_SA","bg_BG","ca","ca_ES","cs_CZ","da_DK","de_DE","el_GR","en_GB","en_US","es_ES","et_EE","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","is_IS","it_IT","ja_JP","ko_KR","lt_LT","lv_LV","nb_NO","nl_NL","pl_PL","pt_BR","pt_PT","ro_RO","ru_RU","sk_SK","sl_SI","sv_SE","tr_TR","uk_UA","zh_CN","zh_TW"],"languagesAdmin":["ca","ca_ES","cs_CZ","da_DK","de_DE","en_US","es_ES","eu","fa_IR","fi_FI","fr_FR","hu_HU","id_ID","it_IT","ja_JP","lt_LT","nb_NO","nl_NL","pl_PL","pt_BR","ru_RU","sk_SK","sl_SI","sv_SE","zh_CN"],"appVersionType":"community","attachmentsActions":[]},"AdditionalLoginError":"","AllowGoogleSocial":false,"AllowGoogleSocialAuth":false,"AllowGoogleSocialAuthGmail":false,"AllowGoogleSocialDrive":false,"AllowGoogleSocialPreview":false,"GoogleClientID":"","GoogleApiKey":"","AllowFacebookSocial":false,"AllowTwitterSocial":false,"AllowDropboxSocial":false,"DropboxApiKey":"","SupportedFacebookSocial":true,"ProjectHash":"1c6a6bc68ba5f92d85485ab98a7fc6d4","NewMoveToFolder":true,"AllowLanguagesOnSettings":true,"AllowLanguagesOnLogin":true,"AttachmentLimit":26214400,"SignMe":"DefaultOff","UseLocalProxyForExternalImages":false,"ShowImages":false,"MPP":20,"SoundNotification":false,"DesktopNotifications":false,"Layout":1,"EditorDefaultType":"Html","UseCheckboxesInList":true,"AutoLogout":30,"UseThreads":false,"AllowDraftAutosave":true,"ReplySameFolder":false,"ContactsAutosave":true,"EnableTwoFactor":false,"ParentEmail":"","InterfaceAnimation":true,"UserBackgroundName":"","UserBackgroundHash":"","Theme":"Blurred","NewThemeLink":".\/?\/Css\/0\/User\/-\/Blurred\/-\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/Hash\/-\/","Language":"pt_BR","LanguageAdmin":"pt_BR","UserLanguageRaw":"pt_BR","UserLanguage":"pt_BR","UserLanguageAdmin":"pt_BR","PluginsLink":"","LangLink":".\/?\/Lang\/0\/App\/pt_BR\/1c6a6bc68ba5f92d85485ab98a7fc6d4\/","StaticLibJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/libs.min.js?community","StaticAppJsLink":"rainloop\/v\/1.16.0\/static\/js\/min\/app.min.js?community","StaticAppJsNextLink":"rainloop\/v\/1.16.0\/static\/js\/app.next.js?community","StaticEditorJsLink":"rainloop\/v\/1.16.0\/static\/ckeditor\/ckeditor.js?community"});}
+[21:29:44.439][22a5ba4a] INFO[MEMORY]: Memory peak usage: 2MB
+[21:29:44.443][22a5ba4a] INFO[TIME]: Time delta: 0.1971480846405

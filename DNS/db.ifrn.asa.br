@@ -1,15 +1,19 @@
-$TTL 30
-@ 	IN	SOA	@ root (
-	2024082401 	;serial
-	120		;refresh
-	60		;retry
-	300		;expiry
-	30		; Minimum
-	)
-
-@	IN 	NS	@	
-@	IN 	MX	5 	mail
-@		IN	A	127.0.0.1
-mail	IN	A	127.0.0.1
-@		IN	A	127.0.0.1
-www		IN	CNAME @
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	ns.ifrn.asa.br. root.asa.br. (
+			 3     		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@   		IN  NS  ns.ifrn.asa.br.
+@   		IN  A   192.168.1.205
+ns  		IN  A   192.168.1.205
+web			IN	A	192.168.1.205
+portal		IN	A	192.168.1.205
+webmail		IN	A	192.168.1.205
+paulo		IN	A	192.168.1.205
+www 		IN  CNAME   ns
