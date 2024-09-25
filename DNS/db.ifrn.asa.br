@@ -1,37 +1,19 @@
-<<<<<<< HEAD
 ;
 ; BIND data file for local loopback interface
 ;
 $TTL	604800
 @	IN	SOA	ns.ifrn.asa.br. root.asa.br. (
 			 3     		; Serial
-=======
-$TTL	604800
-@	IN	SOA	ifrn.asa.br. root.ifrn.asa.br. (
-			      1		; Serial
->>>>>>> 5a76abc5efa4535332f45aa72c2c0a4c1d5847b6
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
 			 604800 )	; Negative Cache TTL
 ;
-<<<<<<< HEAD
 @   		IN  NS  ns.ifrn.asa.br.
-@   		IN  A   192.168.1.205
-ns  		IN  A   192.168.1.205
-web			IN	A	192.168.1.205
-portal		IN	A	192.168.1.205
-webmail		IN	A	192.168.1.205
-paulo		IN	A	192.168.1.205
+@   		IN  A   10.25.2.38
+ns  		IN  A   10.25.2.38
+web			IN	A	10.25.2.38
+portal		IN	A	10.25.2.38
+webmail		IN	A	10.25.2.38
+paulo		IN	A	10.25.2.38
 www 		IN  CNAME   ns
-=======
-@	IN  MX 10 mail.asa.br.
-@	IN	NS	ns1.ifrn.asa.br.
-;@	IN	NS	ns2.ifrn.asa.br.
-@	IN	A	127.0.0.1
-@	IN	AAAA	::1
-
-ns1			A	192.168.1.28  ;alterar para ip da máquina local
-mail		A 	192.168.1.28  ;alterar para ip da máquina local
-www			CNAME	ns1
->>>>>>> 5a76abc5efa4535332f45aa72c2c0a4c1d5847b6

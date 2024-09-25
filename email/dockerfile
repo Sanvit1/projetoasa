@@ -52,4 +52,4 @@ COPY supervisord.conf /etc/supervisor/supervisord.conf
 EXPOSE 25 143 80 110
 
 # Iniciar o Supervisor com o arquivo de configuração correto
-CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/supervisord.conf"]
+#CMD ["/usr/bin/supervisord", "-c", "/etc/supervisor/supervisord.conf"]
